@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
-    "\\images\\logos",
+    "\\bundlecss2v1000\\Default",
+    "\\bundlecss2v1000\\Electrician",
+    "\\bundlejs2v1000\\Electrician",
     "\\images\\logos\\delivery-logoes"
   ],
   "PreviewInSolutionExplorer": false
